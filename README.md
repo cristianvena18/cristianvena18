@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristian Vena</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Rooftop Dev](https://rooftop.dev)
+- 🔭 I’m currently working on [TGA Company](https://tgacompany.com)
 
-- 🌱 I’m currently learning **Rust, NodeJs and Software Architecture**
+- 🌱 I’m currently learning **Kotlin and Software Architecture**
 
-- 🤝 I’m looking for help with **Backend or DevOps Tools**
+- 🤝 I’m looking for help with **Backend, DevOps Tools or Management**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cristianvena18](https://github.com/cristianvena18)
+- 👨‍💻 Some of my projects are available at [https://github.com/cristianvena18](https://github.com/cristianvena18)
 
 - 💬 Ask me about **Backend Development or Software Architecture**
 
